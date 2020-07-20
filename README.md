@@ -13,8 +13,8 @@
 - Variety of Themes
 - Selection of Extensions     
      
-Mac default text editor: Text Edit
-Windows default text editor: Notepad     
+1. Mac default text editor: Text Edit
+1. Windows default text editor: Notepad     
      
      
 ## Third-Party Options:     
