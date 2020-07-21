@@ -26,6 +26,6 @@
 - Brackets
 - Sublime Text 3     
      
-## Integrated Development Environment (IDE) - All one one software package     
+### Integrated Development Environment (IDE) - All-in-one software package     
 
 
